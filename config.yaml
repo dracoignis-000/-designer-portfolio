@@ -2,13 +2,13 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: EMIT IO Blog
 
 languages:
   en:
     languageName: English
-    title: Example Site
-    description: Example description
+    title: EMIT IO Blog
+    description: Embrace the flow times constant pulse. Forever forward!
     weight: 1
   zh-cn:
     languageName: 中文
@@ -48,8 +48,8 @@ params:
   favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
   footer:
-    since: 2020
-    customText:
+    since: 2023
+    customText: Embrace the flow Times Constant Pulse Forever forward
 
   dateFormat:
     published: Jan 02, 2006
@@ -57,7 +57,7 @@ params:
 
   sidebar:
     emoji: 🍥
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    subtitle: 🌟 Discover the hidden treasures of web design! Join our newsletter for weekly tips and tricks on creating stunning websites. EMIT IO is your gateway to embracing the flow and staying ahead of the curve. Step into the future of web design and unlock your creative potential. Subscribe now and embark on an exciting journey of digital innovation! ✨💻
     avatar:
       enabled: true
       local: true
@@ -199,13 +199,13 @@ menu:
   social:
     - identifier: github
       name: GitHub
-      url: https://github.com/CaiJimmy/hugo-theme-stack
+      url: https://github.com/CaiJimmy/dracoignis-000
       params:
         icon: brand-github
 
     - identifier: twitter
       name: Twitter
-      url: https://twitter.com
+      url: https://twitter.com/TarryGaoseb
       params:
         icon: brand-twitter
 
